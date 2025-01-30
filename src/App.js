@@ -5,12 +5,12 @@ import { useState } from 'react';
 
 function App() {
 
-  const [color, setColor] = useState('green')
+  const [color, setColor] = useState('')
 
   return (
     <div className="App">
-      <DisplayBox color={color}/>
-      <InputBox />
+      <DisplayBox color={color} />
+      <InputBox color={color} setColor={setColor} />
     </div>
   );
 }
