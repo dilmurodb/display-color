@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/display-color/static/css/main.b2eee24f.css",
+    "main.js": "/display-color/static/js/main.2a480fde.js",
+    "index.html": "/display-color/index.html",
+    "main.b2eee24f.css.map": "/display-color/static/css/main.b2eee24f.css.map",
+    "main.2a480fde.js.map": "/display-color/static/js/main.2a480fde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2eee24f.css",
+    "static/js/main.2a480fde.js"
+  ]
+}
