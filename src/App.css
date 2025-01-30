@@ -1,3 +1,28 @@
 .App {
+  margin-top: 150px;
   text-align: center;
+}
+
+.display-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 300px;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
+.input-box {
+  margin: 20px auto;
+}
+
+input {
+  width: 300px;
+  height: 40px;
+  margin-top: 10px auto;
+  border: 2px solid black;
+  border-radius: 5%;
+  font-size: 28px;
 }

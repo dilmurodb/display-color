@@ -1,8 +1,9 @@
 import React from 'react'
+import '../App.css';
 
 const DisplayBox = () => {
   return (
-    <div>DisplayBox</div>
+    <div className="display-box">DisplayBox</div>
   )
 }
 
